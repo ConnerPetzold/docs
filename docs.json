@@ -18,9 +18,7 @@
             "groups": [
               {
                 "group": "Getting started",
-                "pages": [
-                  "index"
-                ]
+                "pages": ["1.0.0/index"]
               }
             ]
           }
@@ -34,9 +32,7 @@
             "groups": [
               {
                 "group": "Getting started",
-                "pages": [
-                  "index"
-                ]
+                "pages": ["1.1.0/index"]
               }
             ]
           }
@@ -63,14 +59,14 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   }
 }
